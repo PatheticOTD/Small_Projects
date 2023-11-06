@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-06T14:45:59.466Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="ToX4-MJ-_Vj-k2PYSPrB" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-06T14:54:39.611Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="EmuOzVBbzilb6Xs7D3TN" version="22.0.8" type="github">
   <diagram name="Страница — 1" id="gn68FRjg7Zxm2X2_TWse">
-    <mxGraphModel dx="2608" dy="1833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3122" dy="2191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,13 +31,13 @@
         <mxCell id="-xs1iI6ftxm_-aN_QgvH-9" value="диагноз" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="680" width="200" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="-xs1iI6ftxm_-aN_QgvH-10" value="айди(пк)&lt;br&gt;название болезни&lt;br&gt;код болезни&lt;br&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="-xs1iI6ftxm_-aN_QgvH-9" vertex="1">
+        <mxCell id="-xs1iI6ftxm_-aN_QgvH-10" value="айди(пк)&lt;br&gt;название болезни" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="-xs1iI6ftxm_-aN_QgvH-9" vertex="1">
           <mxGeometry y="20" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="-xs1iI6ftxm_-aN_QgvH-11" value="лечение" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="350" width="160" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="-xs1iI6ftxm_-aN_QgvH-12" value="Айди врача&lt;br&gt;айди пациента" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="-xs1iI6ftxm_-aN_QgvH-11" vertex="1">
+        <mxCell id="-xs1iI6ftxm_-aN_QgvH-12" value="айди(пк)&lt;br&gt;Айди врача&lt;br&gt;айди пациента&lt;br&gt;дата приема" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="-xs1iI6ftxm_-aN_QgvH-11" vertex="1">
           <mxGeometry y="20" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="-xs1iI6ftxm_-aN_QgvH-13" value="лечатся в&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
